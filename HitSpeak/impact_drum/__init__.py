@@ -1,0 +1,2 @@
+"""ImpactDrum package."""
+

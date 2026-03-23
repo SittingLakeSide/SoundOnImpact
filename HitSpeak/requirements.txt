@@ -1,0 +1,5 @@
+# ImpactDrum — Mic Transient Edition
+# Install with:  pip install -r requirements.txt
+
+numpy>=1.24.0        # array math for synthesis + signal processing
+sounddevice>=0.4.6   # mic input + audio output (wraps PortAudio)
